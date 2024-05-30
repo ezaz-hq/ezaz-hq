@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Qmaster Studios
-- 🌱 I’m currently learning ** HTML, Sales** 
+- 🌱 I’m currently learning HTML, Sales
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ** Sales, Python **
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Sales, Python 
+- 📫 How to reach me: ezhq27@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
