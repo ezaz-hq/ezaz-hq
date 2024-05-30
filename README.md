@@ -1,11 +1,8 @@
-## Hi there 👋
+## Welcome here 👋
 
-##<!--
-**ezaz-hq/ezaz-hq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##This is Ezaz Ul Haque, a.k.a The পথিক
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Qmaster Studios
+- 🔭 I’m currently working in Qmaster Studios
 - 🌱 I’m currently learning HTML, Sales
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
